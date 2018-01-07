@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dmd"
+		},
+		{
+			"path": "../druntime"
+		},
+		{
+			"path": "../phobos"
+		}
+	],
+	"settings": {}
+}
