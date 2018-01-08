@@ -13,5 +13,9 @@
 			"path": "../phobos"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"search.exclude": {
+			"host/**": true,
+		}
+	}
 }
